@@ -1,4 +1,4 @@
-# SPA with Vue Cli and Laravel
+# SPA with Vue Cli and Laravel and JWT Token Based Application
 ## Requirements
 
 - Laravel 9
