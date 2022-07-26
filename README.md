@@ -1,7 +1,7 @@
-# SPA with Vue Cli and Lumen
+# SPA with Vue Cli and Laravel
 ## Requirements
 
-- Laravel Components ^8.0
+- Laravel 9
 - nodejs 12.14
 - PHP >= 8.0
 - MySQL >= 5.7
@@ -12,11 +12,11 @@
 ## Installation
 Open Terminal and Clone the repository
 ```
-$ git clone https://github.com/codexwp/vue_spa.git
+$ git clone https://github.com/rajibdas222/Tmss_test.git
 ```
 ### Backend Configuration
 ```
-$ cd vue_spa/backend
+$ cd backend
 $ composer install
 $ cp .env.example .env
 ```
@@ -44,6 +44,6 @@ $ npm run serve
 Now your frontend is running on http://localhost:8080/
 
 ## Default Credentials
-- Username : api@lumen.com
+- Username : admin@gmail.com or user1@gmail.com
 - Password : 12345678
 
